@@ -33,19 +33,4 @@ These symbols are weird to find, but there you go lol.
 ![crossed](https://www.upload.ee/image/11765302/123456.PNG)
 
 You can combine those and make your text look all funky, just give it a test yourself.
-
-# Single Line Code Block
-To create a single line code block in discord, you need to use the ‘tick’ or ‘backtick’.
-
-```his is an example```
-
-![singleblock](https://www.upload.ee/image/11765316/saotsi.PNG)
-
-**Very important text here**
-```
-1) text here
-2) another text here
-3) yet another text line
-4) texty text
-5) this is just template post
-6) text.```
+Blocks and text colors coming soon.
